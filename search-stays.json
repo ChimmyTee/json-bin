@@ -1,0 +1,35 @@
+[
+    {
+      "img": "https://links.papareact.com/xqj",
+      "location": "Private room in center of London",
+      "title": "Stay at this spacious Edwardian House",
+      "description": "1 guests A 1 bedroom A Wifi A Kitchen A Free parking A Washing Machine",
+      "start": 4.73,
+      "price": "$100 / night",
+      "total": "$200 total",
+      "long": -0.0022275,
+      "lat": 51.5421655
+    },
+    {
+        "img": "https://links.papareact.com/hz2",
+        "location": "Private room in center of London",
+        "title": "Stay at this spacious Edwardian House",
+        "description": "1 guests A 1 bedroom A Wifi A Kitchen A Free parking A Washing Machine",
+        "start": 4.73,
+        "price": "$100 / night",
+        "total": "$200 total",
+        "long": -0.0022275,
+        "lat": 51.5421655
+      },
+      {
+        "img": "https://links.papareact.com/uz7",
+        "location": "Private room in center of London",
+        "title": "Stay at this spacious Edwardian House",
+        "description": "1 guests A 1 bedroom A Wifi A Kitchen A Free parking A Washing Machine",
+        "start": 4.73,
+        "price": "$100 / night",
+        "total": "$200 total",
+        "long": -0.0022275,
+        "lat": 51.5421655
+      }
+  ]
