@@ -1,35 +1,35 @@
 [
     {
-      "img": "https://links.papareact.com/xqj",
-      "location": "Private room in center of London",
-      "title": "Stay at this spacious Edwardian House",
-      "description": "1 guests A 1 bedroom A Wifi A Kitchen A Free parking A Washing Machine",
-      "start": 4.73,
-      "price": "$100 / night",
-      "total": "$200 total",
-      "long": -0.0022275,
-      "lat": 51.5421655
+        "img": "https://links.papareact.com/xqj",
+        "location": "Private room in center of London",
+        "title": "Stay at this spacious Edwardian House",
+        "description": "1 guests A 1 bedroom A Wifi A Kitchen A Free parking A Washing Machine",
+        "star": 4.73,
+        "price": "$100 / night",
+        "total": "$200 total",
+        "long": -0.0022275,
+        "lat": 51.5421655
     },
     {
         "img": "https://links.papareact.com/hz2",
         "location": "Private room in center of London",
-        "title": "Stay at this spacious Edwardian House",
-        "description": "1 guests A 1 bedroom A Wifi A Kitchen A Free parking A Washing Machine",
-        "start": 4.73,
-        "price": "$100 / night",
-        "total": "$200 total",
-        "long": -0.0022275,
-        "lat": 51.5421655
-      },
-      {
+        "title": "Independent luxury studio apartment",
+        "description": "2 guests A 3 bedroom A 1 bed 1.5 shared bathrooms A Wifi A Kitchen",
+        "star": 4.3,
+        "price": "$40 / night",
+        "total": "$157 total",
+        "long": -0.095091,
+        "lat": 51.48695
+    },
+    {
         "img": "https://links.papareact.com/uz7",
         "location": "Private room in center of London",
-        "title": "Stay at this spacious Edwardian House",
-        "description": "1 guests A 1 bedroom A Wifi A Kitchen A Free parking A Washing Machine",
-        "start": 4.73,
-        "price": "$100 / night",
-        "total": "$200 total",
+        "title": "London Studio Apartments",
+        "description": "4 guests A 4 bedroom A Wifi A Kitchen A Free parking A Washing Machine A Everything",
+        "star": 4.9,
+        "price": "$500 / night",
+        "total": "$700 total",
         "long": -0.0022275,
         "lat": 51.5421655
-      }
-  ]
+    }
+]
